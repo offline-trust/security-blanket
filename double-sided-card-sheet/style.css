@@ -1,0 +1,87 @@
+@page {
+  size: Letter; /* 8.5in 11in; */
+}
+
+body {
+  margin: 0;
+}
+
+.print-sheet {
+  display: flex;
+}
+
+.container {
+  display: flex-column;
+}
+.card {
+  border: 1px solid black;
+  width: 272px;
+  height: 529px;
+  font-family: Arial;
+}
+
+.top-line {
+  border-bottom: 1px solid black;
+  width: 100%;
+  height: 60px;
+}
+
+.type-label {
+  float: left;
+  border: 0 1px 1px 0 solid black;
+  width: 180px;
+  height: 10px;
+  font-size: 10px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.id-placeholder {
+  border-left: 1px dotted gray;
+  margin-left: 80%;
+  padding: 10px 0 0 10px;
+  font-size: 8px;
+  height: 50px;
+  color: gray;
+}
+
+.section {
+  margin: 2px;
+}
+
+.section-title {
+  font-size: 10px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.section hr {
+  margin: 30px 10px 0 10px;
+  font-weight: bold;
+}
+
+.section-attr {
+  margin: 0 0 -10px 10px;
+  font-size: 10px;
+  font-weight: normal;
+}
+
+.footer {
+  width: 50%;
+  height: 110px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+hr.no-pad {
+  margin: 0 10px;
+}
+
+.backup-divider {
+  float: left;
+  border-left: 1px dotted gray;
+  margin-left: 50%;
+  height: 30px;
+  color: gray;
+}
