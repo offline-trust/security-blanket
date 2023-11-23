@@ -1,8 +1,8 @@
-![QR Code](/qr-codes/contact-instructions-qr-code.png)
+![QR Code](/qr-codes/contact-instructions-doc-qr-code.png)
 
 Hello!
 
-This is a Security Blanket, a paper-based card system to access someone's accounts in the digital world. Before proceeding, please remember that all of this information is highly sensitive, and is **for your eyes only**. 
+This is a Security Blanket, a paper-based card system to access someone's accounts in the digital world. Please remember that all of this information is highly sensitive, and is **for your eyes only**. 
 
 **Do Not Take a photo, or copy these documents in any way. The best way to keep these secure is to keep everything offline and in a safe place.**
 

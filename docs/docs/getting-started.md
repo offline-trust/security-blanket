@@ -1,4 +1,4 @@
-![QR Code](./qr-codes/getting-started-qr-code.png)
+![QR Code](/qr-codes/getting-started-doc-qr-code.png)
 
 # Getting Started 
 Welcome to making your very own Security Blanket! Although tedious, going through this journey will improve your digital security at each step along the way.
@@ -19,7 +19,7 @@ First things first, you need to figure out what is worth protecting. In this day
 ### Map It
 Take the time to review all of your digital accounts now. Warning, this will probably take a few hours. Even longer if you do not use a password manager. You'll be surprised at all of the accounts you've forgotten about, so it's worth the trouble to make sure you're not leaving out anything important. 
 
-1. Write out this  **digital map**, in a text editor of your choosing, and keep it handy for the next step. Here's a [template](./digital-map-template.md) for the list of accounts broken down by TLAs and EAs. Remember to consider Financial, Social Networks, Domain Management, and prioritize as you go.
+1. Write out this **digital map**, in a text editor of your choosing, and keep it handy for the next step. Here's a [template](./digital-map-template.md) for the list of accounts broken down by TLAs and EAs. Remember to consider Financial, Social Networks, Domain Management, and prioritize as you go.
 
 2. For each account listed, log into the account from an incognito window and add write down all devices and authentication tools needed to access each account. You should not write out the literal passwords, but *how* to get the password (i.e. a password manager, or in your head). Familiarize yourself with the [card notation](./glossary.md), and [card overview](./card-overview.md), to maintain a consistent standard in your security blanket.
 
