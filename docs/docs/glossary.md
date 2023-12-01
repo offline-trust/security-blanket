@@ -34,3 +34,7 @@
 `Contact`: A trusted person to operate a security blanket on your behalf.
 
 `Standby Mode`: The contact has the security blanket fully set up and operational, in case any action is required.
+
+`in-the-clear credential`: The literal representation of the credential, i.e. the password text to enter. As opposed to a meta-credential. 
+
+`meta-credential`: The method to access the literal representation of the credential. The "how-to get the text", rather than the text itself. As opposed to a credential in the clear.

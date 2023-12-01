@@ -1,4 +1,5 @@
 # Digital Map Template
+> Reminder: DO NOT write any literal passwords or sensitive information, just the meta-information for accessing the information.
 
 ## Devices
 
@@ -8,10 +9,9 @@ DeviceName/ID - Descriptor
 ## Top Level Accounts
 
 AccountName/ID - Descriptor
-* How To Access (tools, credentials: ID, PW, MFA, backup codes, ... list each in a separate bullet)
-    - MFA 
-    - ID (clear)
-    - PW (clear)
+* How To Access (tools, credentials: ID, PW, MFA, backup codes, ... list each in a separate bullet) 
+    - ID: (clear)
+    - PW: (clear)
     - MFA: Yubikey/Authenticator App/Email/SMS
     - backup codes
     - ...
@@ -25,7 +25,7 @@ ToolName/ID - Descriptor
 ## Essential Accounts
 
 AccountName/ID - location
-* How To Access (tools, credentials.-. list each in a separate bullet))
+* How To Access (tools, credentials... list each in a separate bullet))
     - PwdMgr
     - MFA:
     - ID

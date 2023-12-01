@@ -3,16 +3,16 @@
 ## Devices
 
 Laptop/1 - Macbook 12", Space Grey
-* ID (clear)
-* PW (clear)
+* ID: (clear)
+* PW: (clear)
 * Bio: finger 
 
 Desktop/1 - Dell
-* ID (clear)
-* PW (clear)
+* ID: (clear)
+* PW: (clear)
 
 Phone/1 - Pixel 8, Green, Phone Number
-* PIN (clear)
+* PIN: (clear)
 * Bio: face
 
 Yubikey/1 - yubikey fido u2f, id desc
