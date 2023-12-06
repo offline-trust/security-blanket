@@ -23,7 +23,7 @@ Finally, you have the “account” cards that detail all of the Top Level and E
 Now is a great time to ask questions:
 * Notify the owner if you don't have access to a device.
 * For unfamiliar tools or software, check the [security blanket support page](./support/) for help. If you are still having trouble, contact the owner for more details.
-* If there's anything else you're not sure about, please contact the owner. Better to sort it out now instead of during an emergency.
+* If there's anything else you're not sure about, please contact the owner. Better to sort it out now, before it's an emergency.
 
 ## 3. Confirm Account Access
 
@@ -33,4 +33,4 @@ Once completed, store the security blanket and message the owner to confirm rece
 
 ## 4. Standby Mode
 
-Congratulations, you have reached Standby Mode! Stand by in case your services are required to access an account, but you're pretty much done. From time to time, the owner may send you more cards to update your blanket, but no other action is needed on your part. 
+Congratulations, you have reached Standby Mode! Stand by in case your services are required to access an account. From time to time, the owner may send you more cards to update your blanket, but no other action is needed on your part. 

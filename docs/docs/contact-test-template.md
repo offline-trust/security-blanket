@@ -1,8 +1,9 @@
 # Initial Test Run
 
-To test your ability to use the Security Blanket, access a TLA and message the owner from that account to prove that you successfully accessed their account.
+To test your ability to use the Security Blanket, attempt to access the accounts listed below.
 
 > Note: Since this is a test run, there may be some devices that are not in your possession, so you may need to coordinate with the owner to complete the test.
+
 * If you cannot complete the test run, let the owner know. 
 
 * If there is a device that you don't have access to, please let the owner know.

@@ -35,6 +35,8 @@
 
 `Standby Mode`: The contact has the security blanket fully set up and operational, in case any action is required.
 
-`in-the-clear credential`: The literal representation of the credential, i.e. the password text to enter. As opposed to a meta-credential. 
+`in-the-clear credential`: The literal representation of the credential, i.e. the password text to enter. As opposed to a meta-credential.
 
-`meta-credential`: The method to access the literal representation of the credential. The "how-to get the text", rather than the text itself. As opposed to a credential in the clear.
+`meta-credential`: The method to access the literal representation of the credential. The "how-to get the text", rather than the text itself. As opposed to a credential in the clear. For example, the digital map template uses "(clear)" to denote a credential is passed in-the-clear.
+
+`Digital Map`: A representation of a user's digital accounts and assets using meta-credentials in the security blanket system. Here is an example [template](./digital-map-template.md) and [map](./digital-map-example.md). The map should be divided into the different types of cards, and accounts should be listed in priority order.

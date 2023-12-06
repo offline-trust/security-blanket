@@ -1,5 +1,5 @@
 # Security Best Practices
-Try to do as many of these as you can.
+No one's perfect, so try to do as many of these as you can.
 
 ## Airgap your critical credentials
 Any internet-connected device can be compromised, so the safest thing to do is keep your most valuable credentials off your computer and phone. That's part of the reason why Security Blanket was created, it's too easy to ignore the "write down these backup codes and don't save or screenshot the image" instructions when signing up for a new account. Security Blanket should make it easier to have good system in place and delete those screenshots!
@@ -16,15 +16,15 @@ Use the `"@"`notation throughout the security blanket as much as possible. This 
 ## Most Secure Way To Communicate with Contacts
 1. Initially in-person in an offline, private location
 2. For Security Blankets, by physical paper (offline)
-3. For in-the-clear credentials, definitely over paper, do not mail, in person only.
+3. For in-the-clear credentials, opt for in-person on paper, do not mail.
 4. For meta-credentials, via mail, or online is probably fine.
-5. If you must share credentials in-the-clear, use an encrypted messenger, like Signal. 
+5. If you must share credentials in-the-clear, use an encrypted messenger, like Signal, with  disappearing messages. 
 
 ## Avoid digital copies of your literal credentials and sensitive information. 
 Do Not Take Screenshots or Photos. If you have to, use an encrypted hard drive and encrypt the photos, disable cloud backup, and delete as soon as possible.
 
 ## Trust Your Contacts
-Having a secure backup system, like Security Blanket, only goes as far as your trust with the people involved. Talk about the importance of keeping this information safe and confidential, make sure they understand the responsibility, the system, and have your best interest in mind.
+Having a secure backup system, like Security Blanket, only goes as far as your trust with the people involved. Talk about the importance of keeping this information safe and confidential, make sure they understand the responsibility, the system, and have your best interests in mind.
 
 ## Replicate your blanket
 To diversify risk, make sure you distribute your blanket to different entities and locations. Don't put everything under your mattress! Aim for 3 blankets: 1 personal backup, 1 to a trusted contact, 1 in a different geography.

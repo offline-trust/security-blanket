@@ -6,17 +6,62 @@
 DeviceName/ID - Descriptor
 * How to Access (location, credentials: ID, PW, PIN, ... list each in a separate bullet)
 
+DeviceName/ID - Descriptor
+* How to Access (location, credentials: ID, PW, PIN, ... list each in a separate bullet)
+
+DeviceName/ID - Descriptor
+* How to Access (location, credentials: ID, PW, PIN, ... list each in a separate bullet)
+
+DeviceName/ID - Descriptor
+* How to Access (location, credentials: ID, PW, PIN, ... list each in a separate bullet)
+
 ## Top Level Accounts
 
 AccountName/ID - Descriptor
 * How To Access (tools, credentials: ID, PW, MFA, backup codes, ... list each in a separate bullet) 
-    - ID: (clear)
-    - PW: (clear)
-    - MFA: Yubikey/Authenticator App/Email/SMS
-    - backup codes
-    - ...
+* ID: (clear)
+* PW: (clear)
+* MFA: Yubikey/Authenticator App/Email/SMS
+* backup codes: (clear)
+* ...
+
+AccountName/ID - Descriptor
+* How To Access (tools, credentials: ID, PW, MFA, backup codes, ... list each in a separate bullet) 
+* ID: (clear)
+* PW: (clear)
+* MFA: Yubikey/Authenticator App/Email/SMS
+* backup codes: (clear)
+* ...
+
+AccountName/ID - Descriptor
+* How To Access (tools, credentials: ID, PW, MFA, backup codes, ... list each in a separate bullet) 
+* ID: (clear)
+* PW: (clear)
+* MFA: Yubikey/Authenticator App/Email/SMS
+* backup codes: (clear)
+* ...
+
+AccountName/ID - Descriptor
+* How To Access (tools, credentials: ID, PW, MFA, backup codes, ... list each in a separate bullet) 
+* ID: (clear)
+* PW: (clear)
+* MFA: Yubikey/Authenticator App/Email/SMS
+* backup codes: (clear)
+* ...
 
 ## Tools
+
+ToolName/ID - Descriptor
+* On: Where it's located
+* How to Access (tools, credentials)
+
+ToolName/ID - Descriptor
+* On: Where it's located
+* How to Access (tools, credentials)
+
+ToolName/ID - Descriptor
+* On: Where it's located
+* How to Access (tools, credentials)
 
 ToolName/ID - Descriptor
 * On: Where it's located
@@ -26,9 +71,8 @@ ToolName/ID - Descriptor
 
 AccountName/ID - location
 * How To Access (tools, credentials... list each in a separate bullet))
-    - PwdMgr
-    - MFA:
-    - ID
-    - PW
-    - MFA: Yubikey/Authenticator App/Email/SMS
-    - ...
+* PwdMgr:
+* MFA:
+* ID:
+* PW:
+* ...

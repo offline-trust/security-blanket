@@ -22,7 +22,7 @@ Take the time to review all of your digital accounts now. Warning, this will pro
 
 2. For each account listed, log into the account from an incognito window and add write down all devices and authentication tools needed to access each account. Do not write out the literal passwords, but *how* to get the password (i.e. a password manager, or from memory). Familiarize yourself with the [card notation](./glossary.md), and [card overview](./card-overview.md), to maintain a consistent writing standard for your security blanket.
 
-3. You should now have a complete list of your TLAs, EAs, critical devices, and tools needed to access your digital life. Hopefully, most of them have a similar access pattern (MFA!), but some probably are not up to code. 
+3. You should now have a complete list of your TLAs, EAs, critical devices, and tools needed to access your digital life. Hopefully, most of them have a similar access pattern (hopefully MFA), but some probably are not up to code. 
 
 > Now is a great time to fix and add extra layers of security to these important accounts.
 
@@ -58,7 +58,7 @@ The order reduces the amount of literal passwords and IDs you need to write down
 ## 3. Distribute your security blanket for safe keeping.
 
 1. Decide on a set of trusted contacts, and make sure you *[trust](./security-best-practices.md#trust-your-contacts)* them. 
-2. Confirm with each contact that they are willing to be your security blanket. Go through the responsibilities and your expectations, highlighting the importance of keeping this information safe and confidential.
+2. Confirm with each contact that they are willing to be your security blanket. Go through the responsibilities and expectations, highlighting the importance of keeping this information safe and confidential.
 3. For each confirmed contact
     - Fill out their [contact setup](./contact-instructions.md) and [test instructions](./contact-test-template.md).
     - Meet with your contact in person, and physically hand them your blanket with the attached instructions.
