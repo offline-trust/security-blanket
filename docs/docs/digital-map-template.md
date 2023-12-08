@@ -69,7 +69,31 @@ ToolName/ID - Descriptor
 
 ## Essential Accounts
 
-AccountName/ID - location
+AccountName/ID - Descriptor
+* How To Access (tools, credentials... list each in a separate bullet))
+* PwdMgr:
+* MFA:
+* ID:
+* PW:
+* ...
+
+AccountName/ID - Descriptor
+* How To Access (tools, credentials... list each in a separate bullet))
+* PwdMgr:
+* MFA:
+* ID:
+* PW:
+* ...
+
+AccountName/ID - Descriptor
+* How To Access (tools, credentials... list each in a separate bullet))
+* PwdMgr:
+* MFA:
+* ID:
+* PW:
+* ...
+
+AccountName/ID - Descriptor
 * How To Access (tools, credentials... list each in a separate bullet))
 * PwdMgr:
 * MFA:

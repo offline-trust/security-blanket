@@ -15,9 +15,9 @@ Phone/1 - Pixel 8, Green, Phone Number
 * PIN: (clear)
 * Bio: face
 
-Yubikey/1 - yubikey fido u2f, id desc
+Yubikey/1 - yubikey fido u2f, id: 123
 
-Ledger/1 - Ledger Hardware Wallet, id desc
+Ledger/1 - Ledger Hardware Wallet, black and silver
 * PIN: (clear)
 
 ## Top Level Accounts
