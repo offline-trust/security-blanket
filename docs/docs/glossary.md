@@ -40,3 +40,5 @@
 `meta-credential`: The method to access the literal representation of the credential. The "how-to get the text", rather than the text itself. As opposed to a credential in the clear. For example, the digital map template uses "(clear)" to denote a credential is passed in-the-clear.
 
 `Digital Map`: A representation of a user's digital accounts and assets using meta-credentials in the security blanket system. Here is an example [template](./digital-map-template.md) and [map](./digital-map-example.md). The map should be divided into the different types of cards, and accounts should be listed in priority order.
+
+`Remote Restore`: An MFA feature that most TLAs provide for account recovery, typically via "backup codes" or a "recovery email". Meant to be a backup if the user has lost access to their primary MFA method. For example, using backup codes to log into your Google account if you lost your phone that receives verification codes.
