@@ -1,4 +1,5 @@
 # Digital Map Example
+of the [template](./digital-map-template.md)
 
 ## Devices
 

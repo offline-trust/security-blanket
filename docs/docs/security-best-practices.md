@@ -29,5 +29,8 @@ Having a secure backup system, like Security Blanket, only goes as far as your t
 ## Replicate your blanket
 To diversify risk, make sure you distribute your blanket to different entities and locations. Don't put everything under your mattress! Aim for 3 blankets: 1 personal backup, 1 to a trusted contact, 1 in a different geography.
 
+At a minimum, make a backup blanket for yourself to keep at home. This way you can restore your credentials in case of an emergency. It's also a good practice to have a personal backup copy somewhere off-site, in case of a disaster at home. Lastly, having a trusted contact with a security blanket, can help restore your access when you are away and unable to access your other backups.
+
+
 ## Keep It Simple
 Good security has a learning curve, but a backup system is worthless if your contacts can't figure out how to use it. We've designed The Security Blanket to be simple, but remember to do your part in keeping names and instructions easy to understand for your contacts. If your Mom can't figure it out, it is too complicated.

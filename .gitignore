@@ -1,2 +1,5 @@
 .DS_Store
 business-card/*.png
+kinkos/*
+product-assets/*
+postcard/*.png
