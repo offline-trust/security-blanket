@@ -2,7 +2,7 @@
 > Note: Make sure to read the [basic backup](./basic-backup-guide.md) and [regular backup](./regular-backup-guide.md) guides first.
 
 **The comprehensive Security Blanket backup strategy to protect your critical credentials, devices, *and* accounts, in case of a disaster.**
-* Restores access to your `TLA`s, EAs, and/or Devices under the following scenarios:
+* Restores access to your `TLAs`, EAs, and/or Devices under the following scenarios:
     * All [Regular Backup Scenarios](./regular-backup-guide.md) plus,
     * Contact needs to manage EAs on your behalf. 
 * Blankets are composed of `TLA`, `Tool`, `Device`, and `EA` cards.
@@ -11,9 +11,9 @@
 ## Steps
 > We recommend reading the [getting started guide](./getting-started.md) first.
 
-1. Create your [digital map](./digital-map-template.md) as described in the [getting started guide](./getting-started.md). Double check that you can access all of your accounts from your `TLA`s, otherwise this will only be a partial backup in the case of a remote restore scenario.
+1. Create your [digital map](./digital-map-template.md) as described in the [getting started guide](./getting-started.md). Double check that you can access all of your accounts from your `TLAs`, otherwise this will only be a partial backup in the case of a remote restore scenario.
 
-2. Carefully review the `TLA`s and ensure each of them have a [remote restore](./glossary.md) method that does not rely on any access to a `device` card. Typically, most `TLA`s have a recovery method that uses "backup codes" for this purpose.
+2. Carefully review the `TLAs` and ensure each of them have a [remote restore](./glossary.md) method that does not rely on any access to a `device` card. Typically, most `TLAs` have a recovery method that uses "backup codes" for this purpose.
 
 3. If any `tools` are needed to access a `TLA`, ensure the `tool` can be accessed via a remote restore method, or provide a recovery method for the `TLA` that does not depend on the Tool. Again, enabling "backup codes" can suffice.
 
@@ -21,7 +21,7 @@
 
 5. Prioritize the list of `EA`s you want to protect. Try to keep it short, as every extra card adds a bit more overhead to the security blanket.
 
-4. Count the number of cards you will need per blanket. Your blanket should include all of the `TLA`s *and `EA`s* you want to protect, all relevant `tools` needed to access `TLA`s, and all of your `devices`.
+4. Count the number of cards you will need per blanket. Your blanket should include all of the `TLAs` *and `EA`s* you want to protect, all relevant `tools` needed to access `TLAs`, and all of your `devices`.
 
 5. Now determine the number of backups you want to make. As described in the [security best practices](./security-best-practices.md):
 
