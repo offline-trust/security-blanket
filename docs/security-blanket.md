@@ -5,7 +5,7 @@ by [Offline Trust](/index.md)
 The Security Blanket system is designed to empower individuals to take control of their digital security by organizing and securing their digital life offline, while establishing a trusted support network in case of emergencies.
 
 ### Security Blanket System
-* [Overview](broken link)
+* [Overview](./blog/introducing-the-security-blanket.md)
 * [Card Overview](./docs/card-overview.md)
 * Digital Map [template](./docs/digital-map-template.md) and [example](./docs/digital-map-example.md)
 * [Glossary](./docs/glossary.md)

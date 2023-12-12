@@ -1,4 +1,4 @@
-![offlinetrust.com/docs/getting-started.html](./assets/getting-started-doc-qr-code.png)
+![offlinetrust.com/docs/getting-started.html](../assets/getting-started-doc-qr-code.png)
 
 # Getting Started 
 Welcome to making your very own Security Blanket! Although tedious, going through this journey will improve your digital security at each step along the way.

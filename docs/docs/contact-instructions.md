@@ -1,4 +1,4 @@
-![offlinetrust.com/docs/contact-instructions.html](./assets/contact-instructions-doc-qr-code.png)
+![offlinetrust.com/docs/contact-instructions.html](../assets/contact-instructions-doc-qr-code.png)
 
 Hello!
 
