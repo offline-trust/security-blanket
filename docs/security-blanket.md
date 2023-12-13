@@ -33,4 +33,4 @@ We believe the most secure systems are open source, open to audits, inspection, 
 #### Why should I pay for this?
 Bottom Line: You don't have to.
 
-One of our goals is to level up every individual's security. That's why this entire product is open source, so anyone can learn how to do it for free. We sell the [product](shop.offlinetrust.com) because of the value it creates from convenience, consistency, and a level of accountability.
+One of our goals is to level up every individual's security. That's why the product is [open source](https://github.com/offline-trust/security-blanket), so anyone can learn how to do it for free. We sell the [product](shop.offlinetrust.com) because of the value it creates from convenience, consistency, and a level of accountability.
