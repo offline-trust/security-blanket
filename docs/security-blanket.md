@@ -18,6 +18,8 @@ The Security Blanket system is designed to empower individuals to take control o
 * [Full Backup Guide](./docs/full-backup-guide.md)
 * [Trusted Contact Instructions](./docs/contact-instructions.md)
 
+### [Blog](./blog/index.md)
+
 ### FAQ
 #### Why Paper?
 Most people already write their passwords down on some notebooks or sticky notes, the Security Blanket provides more structure around the same concept to make it more secure, easier to manage, and easier to share with trusted contacts.
