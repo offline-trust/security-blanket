@@ -6,6 +6,6 @@ The Offline Trust is dedicated to improving every individual's digital security 
 ## Products
 [Security Blanket](./security-blanket.md): A paper-based security system that keeps your digital assets safe. 
 
-### Purchase at the [Offline Trust Store](shop.offlinetrust.com)
+### Purchase at the [Offline Trust Store](https://shop.offlinetrust.com)
 
 *"Trust is built offline"*
