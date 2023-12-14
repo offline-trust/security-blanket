@@ -9,6 +9,6 @@ The Security Blanket was designed to solve this problem. It is a paper-based, of
 
 The blanket itself represents the minimum amount of information needed to regain access to your accounts. So it is easy to store a copy of the blanket with a trusted family member in case you lose your copy in a disaster, or to help access your accounts on your behalf, when needed. Properly set up, the Security Blanket can come to your rescue in various scenarios, from forgetting a password to losing your phone or computer, or even when a natural disaster strikes.
 
-The beauty of the Security Blanket is its simplicity. It’s not rocket science. It employs security best practices to help keep your information safe, prevent costly mistakes, and provide a reliable backup plan in times of crisis.
+The beauty of the Security Blanket is its simplicity. It’s not rocket science. It uses best practices to help keep your information safe, prevent costly mistakes, and provide a reliable backup plan in times of crisis.
 
 So get your Security Blanket [today](https://shop.offlinetrust.com), or [learn more](../docs/getting-started.md)!
