@@ -1,7 +1,7 @@
 # Card Overview
 
-<img src="../card/front.png" alt="front" height="250"/>
-<img src="../card/back.png" alt="back" height="250"/>
+<img src="../assets/card-front.png" alt="front" height="250"/>
+<img src="../assets/card-back.png" alt="back" height="250"/>
 
 ## Sections
 

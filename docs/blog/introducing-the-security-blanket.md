@@ -1,4 +1,6 @@
-![Security Blanket Logo](../assets/security-blanket-logo.png)
+# Introducing The Security Blanket
+
+<img src="../assets/security-blanket-cover-gray.png" alt="Security Blanket Logo" height="250"/>
 
 Did you know the average person has over 200 online accounts? It’s a lot of work to keep track of all those accounts and passwords. Password managers have emerged to help lower the burden, but it’s still a lot to manage. What happens if you forget to add an account to the Password Manager? Or you forget the password to the Password Manager? Worst of all, everyone is facing the same dilemma, but facing it alone. You can’t just share this sensitive information, you have to be careful, and trusting 3rd-party services is risky. Most people resort to writing it down in a notebook. But what if a loved one needs access to your accounts in an emergency? So what do you do in a world where our digital lives continue to grow, becoming a bigger liability to manage, and it's tough to rely on anyone else?
 
