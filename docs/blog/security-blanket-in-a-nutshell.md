@@ -1,5 +1,3 @@
-# Today
-
 Most of us manage our online accounts using our memory, devices, and sometimes with passwords on scratch paper.
 
 However, you may run into trouble if:
@@ -22,7 +20,7 @@ It organizes all your account credentials and login methods, ensuring a reliable
 
 With the ability to restore account access from a Security Blanket, you can build robust backup plans tailored to your needs. Just add more blankets.
 
-With both a personal and off-site blanket, you're shielded even if a home fire destroys your devices and your home Security Blanket. You can recover using the off-site Security Blanket.
+Having an off-site blanket, in addition to your blanket at home, shields you in the event of a fire that destroys your devices and blanket at home. You can recover using the off-site Security Blanket.
 
 By giving a security blanket to a trusted contact, you increase your ability to access accounts when you can't do it yourself.
 
