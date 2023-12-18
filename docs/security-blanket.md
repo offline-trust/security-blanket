@@ -6,6 +6,7 @@ The Security Blanket system is designed to empower individuals to take control o
 
 ### Security Blanket System
 * [Overview](./blog/introducing-the-security-blanket.md)
+* [How It Works](./docs/how-it-works.md)
 * [Card Overview](./docs/card-overview.md)
 * Digital Map [template](./docs/digital-map-template.md) and [example](./docs/digital-map-example.md)
 * [Glossary](./docs/glossary.md)
