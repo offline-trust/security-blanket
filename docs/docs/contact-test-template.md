@@ -8,7 +8,7 @@ To test your ability to use the Security Blanket, attempt to access the accounts
 
 * If there is a device that you don't have access to, please let the owner know.
 
-* If there is a tool or piece of software you do not know how to use, please checkout [security blanket support page](./support/) for how-to instructions for the most commonly used tools in the community. If it's not there, please reach out to the owner and get more details.
+* If there is a tool or piece of software you do not know how to use, please checkout [security blanket support page](./support/index.md) for how-to instructions for the most commonly used tools in the community. If it's not there, please reach out to the owner and get more details.
 
 ## TLA Access
 Most account access is keyed through the primary TLA Account, __________ / ___

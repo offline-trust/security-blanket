@@ -16,13 +16,13 @@ Thank you for being a trusted contact, it is a big responsibility. Now let's get
 Find a safe, secure place to store this highly sensitive data. The owner trusts you and your judgment in selecting a location.
 
 ## 2. The Security Blanket System
-There are three types of cards in the blanket. Start by locating the “device” cards and ensure you have access to the physical devices needed to access the accounts. Next, find the “tool” cards, and familiarize yourself with the software needed to access certain accounts. Most accounts require the use of a Password Manager and Multi Factor Authentication (MFA). Check out [security blanket support](./support/) to learn more about any specific tool. 
+There are three types of cards in the blanket. Start by locating the “device” cards and ensure you have access to the physical devices needed to access the accounts. Next, find the “tool” cards, and familiarize yourself with the software needed to access certain accounts. Most accounts require the use of a Password Manager and Multi Factor Authentication (MFA). Check out [security blanket support](./support/index.md) to learn more about any specific tool. 
 
 Finally, you have the “account” cards that detail all of the Top Level and Essential Accounts. Every card has a template that describes where to locate the information (Location | Details) and how to access the information (Credentials). You can learn more about all the card sections and notation in the [overview](./card-overview.md) and [glossary](./glossary.md) pages.
 
 Now is a great time to ask questions:
 * Notify the owner if you don't have access to a device.
-* For unfamiliar tools or software, check the [security blanket support page](./support/) for help. If you are still having trouble, contact the owner for more details.
+* For unfamiliar tools or software, check the [security blanket support page](./support/index.md) for help. If you are still having trouble, contact the owner for more details.
 * If there's anything else you're not sure about, please contact the owner. Better to sort it out now, before it's an emergency.
 
 ## 3. Confirm Account Access
