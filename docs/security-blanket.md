@@ -11,6 +11,7 @@ The Security Blanket system is designed to empower individuals to take control o
 * Digital Map [template](./docs/digital-map-template.md) and [example](./docs/digital-map-example.md)
 * [Glossary](./docs/glossary.md)
 * [Best Practices](./docs/security-best-practices.md)
+* [Support](./docs/support/index.md)
 
 ### Guides
 * [Getting Started](./docs/getting-started.md)
