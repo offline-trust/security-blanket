@@ -13,7 +13,7 @@ Before you start, carve out some dedicated and uninterrupted time in a secure sp
 ## 1. Organize Your Digital Life
 Begin by identifying what's worth protecting. In the digital age, it's common to have numerous accounts, but only a few are truly crucial. For instance, a bank account represents real-world money, making it an **Essential Account (EA)**. An identity account, typically your primary email, like Google, is valuable as the gateway to your EAs - we refer to these as **Top-Level-Accounts (TLAs)**. All other accounts are Regular Accounts (RAs).
 
->For the Security Blanket, we encourage protecting your TLAs and EAs, leaving the rest to a Password Manager.
+>For the Security Blanket, we encourage protecting your `TLAs` and `EAs`, leaving the rest to a Password Manager.
 
 ### Map It
 Take the time to review all of your digital accounts now. Warning, this will probably take a few hours. Even longer if you do not use a password manager. You'll be surprised at all of the accounts you've forgotten, so it's worth the trouble to make sure you're not leaving out anything important. 
@@ -22,7 +22,7 @@ Take the time to review all of your digital accounts now. Warning, this will pro
 
 2. For each account listed, log into the account from an incognito window and add write down all devices and authentication tools needed to access each account. Do not write out the literal passwords, but *how* to get the password (i.e. a password manager, or from memory). Familiarize yourself with the [card notation](./glossary.md), and [card overview](./card-overview.md), to maintain a consistent writing standard for your security blanket.
 
-3. You should now have a complete list of your TLAs, EAs, critical devices, and tools needed to access your digital life. Hopefully, most of them have a similar access pattern (hopefully MFA), but some probably are not up to code. 
+3. You should now have a complete list of your `TLAs`, `EAs`, critical devices, and tools needed to access your digital life. Hopefully, most of them have a similar access pattern (hopefully MFA), but some probably are not up to code. 
 
     > Now is a great time to fix and add extra layers of security to these important accounts.
 
@@ -31,7 +31,7 @@ Take the time to review all of your digital accounts now. Warning, this will pro
 4. That was tedious work, but only you could do it! Count up all of the items in the map, and that's the number of cards you'll need for your security blanket. Make sure you have a few extra cards in case of mistakes, and you're now ready to make your security blanket.
 
 **Outcome**: 
-* A comprehensive digital map detailing TLAs, EAs, critical devices, and access tools
+* A comprehensive `digital map` detailing `TLAs`, `EAs`, critical devices, and access tools
 * A set number of cards you need per blanket.
 
 ## 2. Making the Security Blanket
@@ -57,7 +57,7 @@ Take the time to review all of your digital accounts now. Warning, this will pro
 
     > Correct any errors.
 
-3. Make copies for multiple blankets. 
+3. Make copies for multiple blankets. The number should be based on the needs of your [backup plan](./security-best-practices.md#replicate-your-blanket).
 
 **Outcome**:
 * A set of filled out Security Blankets 
@@ -68,9 +68,12 @@ Take the time to review all of your digital accounts now. Warning, this will pro
 2. Confirm with each contact that they are willing to be your security blanket. Go through the responsibilities and expectations, highlighting the importance of keeping this information safe and confidential.
 3. For each confirmed contact
     - Fill out their [contact setup](./contact-instructions.md) and [test instructions](./contact-test-template.md).
-    - Meet with your contact in person, and physically hand them your blanket with the attached instructions.
+    - Meet with your contact in person, and hand them your blanket with the attached instructions.
     - (Optional) Set a date to run a [test](./contact-test-template.md) and verify the contact can operate the security blanket.
 
 **Outcome**:
-* Trusted contacts equipped with necessary information to assist in case of emergencies.
-* Security Blanket distributed and ready for use in collaboration with trusted contacts.
+* Security Blanket distributed according to your backup plan and ready for use.
+* Trusted contacts equipped with the security blanket in `Standby Mode`, ready to assist when necessary.
+
+## Congratulations
+**Your security blanket is set up is complete!** Make sure to read the [maintenance guide](./maintenance.md) to keep it up-to-date.

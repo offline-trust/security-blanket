@@ -17,7 +17,7 @@
 
 4. Count the number of cards you will need per blanket. Most people have less than five `TLAs`, so this should be pretty quick. Your blanket should include all of the `TLAs` you want to protect and any software tools needed to access `TLAs`, but no physical `device` or `tool` cards should be included.
 
-5. Now determine the number of backups you want to make. As described in the [security best practices](./security-best-practices.md):
+5. Now determine the number of backups you want to make. As described in the [security best practices](./security-best-practices.md#replicate-your-blanket):
 
     At a minimum, make a backup blanket for yourself to keep at home. This way you can restore your credentials in case of an emergency. It's also a good practice to have a personal backup copy somewhere off-site, in case of a disaster at home. Lastly, having a trusted contact with a security blanket, can help restore your access when you are away and unable to access your other backups.
 
