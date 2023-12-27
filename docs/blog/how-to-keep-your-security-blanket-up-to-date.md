@@ -1,4 +1,4 @@
-# Security Blanket Maintenance
+# How To Keep Your Security Blanket Up-To-Date
 
 After having a security blanket [set up](./getting-started.md), you'll want to follow these suggestions to keep it up-to-date and secure.
 
