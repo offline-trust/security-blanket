@@ -25,7 +25,7 @@ After going through the [digital map exercise](./getting-started.md#map-it), you
 Considering potential typos, errors, and future account additions and changes, a good rule of thumb is to order 20% more than your computed number.
 
 ### How many Security Blanket backups should I order?
-This depends on your backup needs. The Offline Trust ideal is 3, as described in the [security best practices](./security-best-practices.md#replicate-your-blanket):
+This depends on your backup needs. The Offline Trust standard is three, as described in the [security best practices](./security-best-practices.md#replicate-your-blanket):
 
     At a minimum, make a backup blanket for yourself to keep at home. This way you can restore your credentials in case of an emergency. It's also a good practice to have a personal backup copy somewhere off-site, in case of a disaster at home. Lastly, having a trusted contact with a security blanket, can help restore your access when you are away and unable to access your other backups.
 
@@ -33,6 +33,8 @@ Read more about different backup plans:
 * [Basic Backup Guide](./basic-backup-guide.md)
 * [Regular Backup Guide](./regular-backup-guide.md)
 * [Full Backup Guide](./full-backup-guide.md)
+
+**You'll get an additional discount when [ordering](https://shop.offlinetrust.com) the recommended backup plan of 3 or more blankets.**
 
 ### Can't I just print these out myself?
 Of course you can. At Offline Trust, one of our goals is to level up every individual's security. That's why the product is [open source](https://github.com/offline-trust/security-blanket) and freely available for anyone to learn and use. 
