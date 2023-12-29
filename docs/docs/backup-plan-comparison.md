@@ -30,7 +30,8 @@ Compare the different **backup strategies** and **coverages** below to find the 
 * **Full**: `TLAs`, `Tools`, `Devices`, and `EAs` cards.
 
 #### Comparison of coverage features
-| | Basic | Regular | Full | 
+
+|  | Basic | Regular | Full | 
 | ---- | ---- | ---- | ---- |
 | Restores `TLA` Access | Yes | Yes | Yes | 
 | Restores `Device` Access | No | Yes | Yes | 
