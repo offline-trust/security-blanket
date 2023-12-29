@@ -12,28 +12,29 @@ Compare the different **backup strategies** and **coverages** below to find the 
 * **2A Copies**: A personal security blanket at home and a trusted contact with a backup security blanket.
 * **3 Copies**: A personal security blanket at home, an off-site backup security blanket (i.e. safety deposit box), and a trusted contact with a backup security blanket.
 
-### Comparison of how different backup strategies* protect you in the following scenarios:
+#### Comparison of how different backup strategies* protect you in the following scenarios:
 
 | Scenario | 1 | 2 | 2A | 3 |
 | ---- | ---- | ---- | ---- | ---- |
-| Forgotten Password | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Damaged Device | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
-| Natural Disaster destroys home devices and security blanket | :x: | :white_check_mark:| :white_check_mark: | :white_check_mark: | 
-| Device and Personal Security Blanket are temporarily inaccessible (i.e. on vacation) | :x: | :x: | :white_check_mark: | :white_check_mark: | 
-| Family member needs to access your account on your behalf | :x: | :x: | :white_check_mark: | :white_check_mark: | 
+| Forgotten Password | Yes | Yes | Yes | Yes |
+| Damaged Device | Yes | Yes | Yes | Yes | 
+| Natural Disaster destroys home devices and security blanket | No | Yes| Yes | Yes | 
+| Device and Personal Security Blanket are temporarily inaccessible (i.e. on vacation) | No | No | Yes | Yes | 
+| Family member needs to access your account on your behalf | No | No | Yes | Yes | 
 
 *Assumes a **Regular+** blanket coverage.
 
-### Blanket Coverage Types
+### Coverages and their Security Blanket composition.
 * **Basic**: `TLAs` and `Tools` cards.
 * **Regular**: `TLAs`, `Tools`, and `Devices` cards.
 * **Full**: `TLAs`, `Tools`, `Devices`, and `EAs` cards.
 
+#### Comparison of coverage features
 | | Basic | Regular | Full | 
 | ---- | ---- | ---- | ---- |
-| Restores `TLA` Access | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
-| Restores `Device` Access | :x: | :white_check_mark: | :white_check_mark: | 
-| Restores `EA` Access Quickly | :x: | :x:| :white_check_mark: | 
+| Restores `TLA` Access | Yes | Yes | Yes | 
+| Restores `Device` Access | No | Yes | Yes | 
+| Restores `EA` Access Quickly | No | No| Yes | 
 
 ## Use the following resources to implement your backup plan.
 * [Basic Backup Guide](./basic-backup-guide.md)
