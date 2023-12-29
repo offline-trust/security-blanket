@@ -37,4 +37,7 @@ At Offline Trust, we believe **3 security blankets** is the right balance of a r
 * 2 Security Blankets: out of luck
 * **3 Security blankets: A trusted contact will have a security blanket to restore access.**
 
-### **For good security by default, any purchase of 3 or more [Security Blankets](https://shop.offlinetrust.com/) come with an additional discount. You can learn more about each backup plans [here](../security-blanket.md#guides).**
+## Set Up Your Backup Plan
+Learn more about the right backup plan for you by [comparing your options](../docs/backup-plan-comparison.md) and reading through the [different backup guides](../security-blanket.md#guides). 
+
+### **For good security by default, any purchase of 3 or more [Security Blankets](https://shop.offlinetrust.com/) comes with an automatic discount.**
