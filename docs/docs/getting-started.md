@@ -53,7 +53,7 @@ Take the time to review all of your digital accounts now. Warning, this will pro
 
     >Use `@` Pointers as much as possible. This both helps reduce the chance of mistakes and makes the writing process faster.
 
-2. Once you have all the cards written out, it's time to do a test-run with a blank setup, and verify that you can log into each account using only the instructions from the cards. 
+2. Once you have all the cards written out, it's time to do a test-run with a blank setup. Verify you can log into each account using only the instructions from the cards in incognito mode.
 
     > Correct any errors.
 
