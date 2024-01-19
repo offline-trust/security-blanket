@@ -1,7 +1,7 @@
 ![offlinetrust.com/docs/getting-started.html](../assets/getting-started-doc-qr-code.png)
 
 # Getting Started 
-Welcome to making your very own Security Blanket! Although tedious, going through this journey will improve your digital security at each step along the way.
+Welcome to making your very own Security Blanket! Going through this journey will improve your digital security at each step along the way.
 
 There are 3 major steps in this journey:
 1. Organize and map out all of your digital assets and credentials.
@@ -11,14 +11,14 @@ There are 3 major steps in this journey:
 Before you start, carve out some dedicated and uninterrupted time in a secure space for yourself. This allows you to work meticulously, free from time constraints or unwanted scrutiny. We also advise taking a moment to familiarize yourself with our [security best practices](./security-best-practices.md).
 
 ## 1. Organize Your Digital Life
-Begin by identifying what's worth protecting. In the digital age, it's common to have numerous accounts, but only a few are truly crucial. For instance, a bank account represents real-world money, making it an **Essential Account (EA)**. An identity account, typically your primary email, like Google, is valuable as the gateway to your EAs - we refer to these as **Top-Level-Accounts (TLAs)**. All other accounts are Regular Accounts (RAs).
+Begin by identifying what's worth protecting. In the digital age, it's common to have numerous accounts, but only a few are truly crucial. For instance, a bank account represents real-world money, making it an **Essential Account (`EA`)**. An identity account, typically your primary email, like Google, is valuable as the gateway to your `EAs` - we refer to these as **Top-Level-Accounts (`TLAs`)**. All other accounts are Regular Accounts (RAs).
 
 >For the Security Blanket, we encourage protecting your `TLAs` and `EAs`, leaving the rest to a Password Manager.
 
 ### Map It
 Take the time to review all of your digital accounts now. Warning, this will probably take a few hours. Even longer if you do not use a password manager. You'll be surprised at all of the accounts you've forgotten, so it's worth the trouble to make sure you're not leaving out anything important. 
 
-1. Write out this **digital map**, in a text editor of your choosing, and keep it handy for the next step. Here's a [template](./digital-map-template.md) for the list of accounts broken down by TLAs and EAs. Remember to consider financial, social networks, domain management, and prioritize as you go.
+1. Write out this **digital map**, in a text editor of your choosing, and keep it handy for the next step. Here's a [template](./digital-map-template.md) for the list of accounts broken down by `TLAs` and `EAs`. Remember to consider financial, social networks, domain management, and prioritize as you go.
 
 2. For each account listed, log into the account from an incognito window and add write down all devices and authentication tools needed to access each account. Do not write out the literal passwords, but *how* to get the password (i.e. a password manager, or from memory). Familiarize yourself with the [card notation](./glossary.md), and [card overview](./card-overview.md), to maintain a consistent writing standard for your security blanket.
 
