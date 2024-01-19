@@ -1,7 +1,7 @@
 ![offlinetrust.com/docs/getting-started.html](../assets/getting-started-doc-qr-code.png)
 
 # Getting Started 
-Welcome to making your very own Security Blanket! Going through this journey will improve your digital security at each step along the way.
+Welcome to making your very own Security Blanket! Taking this journey will improve your digital security each step along the way.
 
 There are 3 major steps in this journey:
 1. Organize and map out all of your digital assets and credentials.
