@@ -1,4 +1,4 @@
-# Initial Test Run
+# Test Run
 
 To test your ability to use the Security Blanket, attempt to access the accounts listed below.
 
@@ -11,18 +11,18 @@ To test your ability to use the Security Blanket, attempt to access the accounts
 * If there is a tool or piece of software you do not know how to use, please checkout [security blanket support page](./support/index.md) for how-to instructions for the most commonly used tools in the community. If it's not there, please reach out to the owner and get more details.
 
 ## TLA Access
-Most account access is keyed through the primary TLA Account, __________ / ___
-1. Log into the TLA Account.
-2. Send a message to the owner from the TLA (i.e. email them from their own email), "I have successfully used the security blanket to access your account". 
+Most account access is keyed through the primary `TLA` Account, \_\_\_\_\_\_\_\_\_\_ / \_\_\_
+1. Log into the `TLA` Account.
+2. Send a message to the owner from the `TLA` (i.e. email them from their own email), "I have successfully used the security blanket to access your account". 
 
 ## Operate PwdMgr [Optional]
-You will need access to the main Password Manager to access EAs, ensure you can access and use it, PwdMgr/___.
+You will need access to the main Password Manager to access `EAs`, ensure you can access and use it, PwdMgr/\_\_\_.
 1. Log into the PwdMgr
-2. Pick a random EA card to access with the PwgMgr. 
+2. Pick a random `EA` card to access with the PwgMgr. 
 
 ## Operate MFA [Optional]
 You will need to use MFA to access many accounts. Ensure you can use MFA/___.
-1. Log into Account: __________ / ___ with the MFA method. 
+1. Log into Account: \_\_\_\_\_\_\_\_\_\_ / \_\_\_ with the MFA method. 
 
 ## Clean Up
 1. Logout of all accounts and and put the security blanket away for safekeeping. 
