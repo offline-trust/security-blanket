@@ -1,4 +1,6 @@
 # Basic Backup Guide
+> Note: Be sure to read up on [backup plan comparisons](./backup-plan-comparison.md) first.
+
 **The simplest way to use the Security Blanket to protect your most critical credentials in case of a disaster.**
 * Restores access to your `TLAs` under the following scenarios:
     * Your devices are permanently inaccessible: lost, stolen, damaged. You can use the security blanket to log into your `TLAs` from a new device.

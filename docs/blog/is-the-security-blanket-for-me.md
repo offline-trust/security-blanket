@@ -1,5 +1,4 @@
-# Is the Security Blanket for me?
-Here are a few of the many reasons to use a Security Blanket.
+# Top Reasons To Use The Security Blanket
 
 ### It's overwhelming to manage all of your accounts.
 Let's be honest, there's a lot to manage. Setting up a Security Blanket helps systematically organize your accounts and help remove some cruft in the process.
