@@ -18,6 +18,7 @@ The Security Blanket system is designed to empower individuals to take control o
 
 ### Guides
 * [Getting Started](./docs/getting-started.md)
+* [Backup Plan Comparisons](./docs/backup-plan-comparison.md)
 * [Basic Backup Guide](./docs/basic-backup-guide.md)
 * [Regular Backup Guide](./docs/regular-backup-guide.md)
 * [Full Backup Guide](./docs/full-backup-guide.md)
