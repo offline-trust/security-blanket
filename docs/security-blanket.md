@@ -11,10 +11,12 @@ The Security Blanket system is designed to empower individuals to take control o
 * Digital Map [template](./docs/digital-map-template.md) and [example](./docs/digital-map-example.md)
 * [Glossary](./docs/glossary.md)
 * [Best Practices](./docs/security-best-practices.md)
+* [Staying Up To Date](./docs/maintenance.md)
 * [Support](./docs/support/index.md)
 
 ### Guides
 * [Getting Started](./docs/getting-started.md)
+* [Backup Plan Comparisons](./docs/backup-plan-comparison.md)
 * [Basic Backup Guide](./docs/basic-backup-guide.md)
 * [Regular Backup Guide](./docs/regular-backup-guide.md)
 * [Full Backup Guide](./docs/full-backup-guide.md)
