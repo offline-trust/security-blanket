@@ -21,11 +21,12 @@
 title: Offline Trust
 email: hello@offlinetrust.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Offline Trust is dedicated to improving every individual’s digital security
+  The Offline Trust is dedicated to improving digital security
   through open source education and commercial products.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://offlinetrust.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  offline-trust
+github_repo:      offline-trust/security-blanket
 
 # Build settings
 theme: minima

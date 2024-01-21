@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+# About
 **The Offline Trust is dedicated to improving every individual's digital security through open source education and commercial products.**
 
 We strive to leverage well-known security practices to make people's digital lives safer. The knowledge is out there, our goal is to make it easy to use and understand.
