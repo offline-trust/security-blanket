@@ -16,11 +16,11 @@ Compare the different **backup strategies** and **coverages** below to find the 
 
 | Scenario | 1 | 2 | 2A | 3 |
 | ---- | ---- | ---- | ---- | ---- |
-| Forgotten Password | Yes | Yes | Yes | Yes |
-| Damaged Device | Yes | Yes | Yes | Yes | 
-| Natural Disaster destroys home devices and security blanket | No | Yes| Yes | Yes | 
-| Device and Personal Security Blanket are temporarily inaccessible (i.e. on vacation) | No | No | Yes | Yes | 
-| Family member needs to access your account on your behalf | No | No | Yes | Yes | 
+| Forgotten Password | ✅ | ✅ | ✅ | ✅ |
+| Damaged Device | ✅ | ✅ | ✅ | ✅ | 
+| Natural Disaster destroys home devices and security blanket |  | ✅ | ✅ | ✅ | 
+| Device and Personal Security Blanket are temporarily inaccessible (i.e. on vacation) |  |  | ✅ | ✅ | 
+| Family member needs to access your account on your behalf |  |  | ✅ | ✅ | 
 
 *Assumes a **Regular+** blanket coverage.
 
@@ -33,9 +33,9 @@ Compare the different **backup strategies** and **coverages** below to find the 
 
 |  | Basic | Regular | Full | 
 | ---- | ---- | ---- | ---- |
-| Restores `TLA` Access | Yes | Yes | Yes | 
-| Restores `Device` Access | No | Yes | Yes | 
-| Restores `EA` Access Quickly | No | No| Yes | 
+| Restores `TLA` Access | ✅ | ✅ | ✅ | 
+| Restores `Device` Access |  | ✅ | ✅ | 
+| Restores `EA` Access Quickly |  |  | ✅ | 
 
 ## Use the following resources to implement your backup plan.
 * [Basic Backup Guide](./basic-backup-guide.md)

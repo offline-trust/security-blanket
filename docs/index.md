@@ -1,17 +1,25 @@
-# Offline Trust
+---
+layout: ot_default
+---
+# Security Blanket 
+by [Offline Trust](./index.md)
 
-## Mission
-**The Offline Trust is dedicated to improving every individual's digital security through open source education and commercial products.**
+## A paper-based, backup system for your digital assets. 
+The Security Blanket system is designed to empower individuals to take control of their digital security by organizing and securing their digital life offline, while establishing a trusted support network in case of emergencies.
 
-We strive to leverage well-known security practices to make people's digital lives safer. The knowledge is out there, our goal is to make it easy to use and understand.
+### Security Blanket System
+* [Overview](./blog/introducing-the-security-blanket.md)
+* [How It Works](./docs/how-it-works.md)
+* [Card Overview](./docs/card-overview.md)
+* Digital Map [template](./docs/digital-map-template.md) and [example](./docs/digital-map-example.md)
+* [Glossary](./docs/glossary.md)
+* [Best Practices](./docs/security-best-practices.md)
+* [Support](./docs/support/index.md)
 
-We believe the most secure systems are open source, open to audits, inspection, critique, and improve over time. Our entire methodology and knowledge base is open source, so you can verify it for yourself, but also contribute to make it better.
-
-We take data privacy seriously, and do our best to minimize the amount of data we collect. The good news is that you don't have to trust us because all of our products are offline. There's no service to log into, no database that can be hacked.
-
-## Products
-[Security Blanket](./security-blanket.md): A paper-based security system that keeps your digital assets safe. 
-
-### Purchase at the [Offline Trust Store](https://shop.offlinetrust.com)
-
-*"Trust is built offline"*
+### Guides
+* [Getting Started](./docs/getting-started.md)
+* [Backup Plan Comparisons](./docs/backup-plan-comparison.md)
+* [Basic Backup Guide](./docs/basic-backup-guide.md)
+* [Regular Backup Guide](./docs/regular-backup-guide.md)
+* [Full Backup Guide](./docs/full-backup-guide.md)
+* [Trusted Contact Instructions](./docs/contact-instructions.md)
