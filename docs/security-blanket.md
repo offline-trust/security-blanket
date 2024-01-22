@@ -1,3 +1,5 @@
+<img src="../assets/security-blanket-cover-gray.png" alt="Security Blanket Logo" height="250"/>
+
 # Security Blanket 
 by [Offline Trust](./index.md)
 
